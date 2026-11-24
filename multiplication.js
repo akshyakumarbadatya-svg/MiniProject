@@ -11,7 +11,7 @@ function Show(){
         output = document.querySelector("#Result").innerHTML =  res
     }
     }else{
-        output = document.querySelector("#Result").innerHTML =  "Enter A valid Number ☺️"
+        output = document.querySelector("#Result").innerHTML =  "Enter A valid Number 😀"
     }
     }
 
